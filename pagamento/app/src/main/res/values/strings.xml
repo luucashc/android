@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pagamento</string>
+    <string name="folha_de_pagamento">Folha de pagamento</string>
+    <string name="calcular_folha">Calcular folha</string>
+    <string name="numero_de_horas_trabalhadas">Numero de horas trabalhadas</string>
+    <string name="valor_da_hora_trabalhada">Valor da hora trabalhada</string>
+    <string name="seu_nome">Seu nome</string>
+</resources>
