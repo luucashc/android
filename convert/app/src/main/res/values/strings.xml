@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">convert</string>
+    <string name="valor_real"/>
+    <string name="dolar">Dollar</string>
+    <string name="euro">Euro</string>
+    <string name="btn_calcula">Convert</string>
+    <string name="sw_valor">Moeda</string>
+    <string name="txtresult"/>
+    <string name="txtradiovalor">Valor</string>
+    <string name="fundo">Fundo</string>
+    <string name="fundo_two">Fundo</string>
+    <string name="ienes">Ienes</string>
+    <string name="txt_valor_moeda">Moedas:</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="spinner">Spinner</string>
+    <string name="open_convert_two">Diamonds Store</string>
+    <string name="result_two"/>
+    <string name="value_two"/>
+    <string name="rb_ouro">Ouro</string>
+    <string name="rb_rubi">Rubi</string>
+    <string name="rb_diamante">Diamante</string>
+    <string name="btn_calc_two">Convert</string>
+    <string name="img_two">img two</string>
+</resources>
