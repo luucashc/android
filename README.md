@@ -1,6 +1,6 @@
 ## Android Apps
 
-- alcool ou gasolina
-- calculator
-- convert
-- pagamento
+- Álcool ou gasolina
+- Calculator
+- Convert
+- Pagamento
