@@ -1,6 +1,6 @@
 ## Android Apps
 
-- Álcool ou gasolina
+- Best Price (Álcool ou gasolina)
 - Calculator
 - Convert
-- Pagamento
+- Payment
